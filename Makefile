@@ -21,7 +21,7 @@ docx: $(MARKDOWN)
 		--to docx \
 		--output $(DOCX_OUTPUT)
 
-serve:
+serve: clean
 	@echo "Serving Jekyll content..."
 	jekyll serve
 
