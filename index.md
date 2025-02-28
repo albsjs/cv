@@ -3,67 +3,76 @@ layout: cv
 title: Albert Smith
 ---
 
+<button id="print-button" onclick="window.print()">Print</button>
+
 # Albert Smith
 
-Senior Software Engineer - Ruby, DevOps, Python, Go
+Software Engineer - Python, JavaScript, HTML5, CSS3
 
 <div id="webaddress">
 <a href="albert.jack.smith@gmail.com">albert.jack.smith@gmail.com</a>
-| <a href="https://github.com/albsjs">https://github.com/albsjs</a>
+| <a href="https://github.com/albsjs">https://github.com/albsjs/</a>
 </div>
 
-## ABOUT ME
+## About Me
 
-Senior Software Engineer with extensive experience working across public services, insurance and fintech. I value simplicity in code and process, concise communication and short feedback loops. Proficient in DevOps practices, including designing and optimizing CI/CD pipelines, I ensure efficient and reliable software delivery.
+A hard working and driven software engineer with a foundation in both backend and frontend development. Passionate about building scalable, maintainable systems and improving user experiences. Seeking an opportunity to contribute to a dynamic team while expanding my skills in backend engineering and system design. 
 
-## SUMMARY
+## Summary 
 
 Languages
-`Ruby, Python, Typescript, Go`
+`Python, Javascript, HTML5, CSS3`
 
 Frameworks
-`Rails, Flask, Express.js, Cypress, Playwright`
+`React, Node.js, Django, RESTful APIs`
+
+Databases 
+`SQL (PostgreSQL, MySQL, SQLite)`
 
 Tools
-`Docker, Terraform, AWS, Kubernetes`
+`MacOS, Docker, Git, Github`
 
-Skill Areas
-`Frontends, Backends, Databases, API Development, DevOps`
+Devops 
+`CI/CD, TDD, Agile, Kanban`
 
-Domains
-`Insurance, Fintech, Public Services`
+Algorithms and Data Structures
+`Sorting, Searching, Trees, Arrays, Linked Lists, Hashmaps`
 
-## EXPERIENCE
+## Experience
 
-**Indeed Flex - Senior Software Engineer**
-`Oct 2024 - Nov 2024`
+**Backend Development**
+(Self-Taught, Ongoing, Full Time) `(2024 - Present)`
+-	Completed extensive online courses in Python, focusing on backend web development with Flask and Django, learning best practices for API development, and focusing on server-side optimization. 
+-	Studying algorithms and data structures (sorting algorithms, graph algorithms, dynamic programming) through platforms like Boot.dev and FreeCodeCamp to build a strong foundation for solving complex problems efficiently. 
+-	Implemented projects that demonstrate proficiency in backend development, including creating a Static Site Generator, and an asteroids game. 
+-	Course content covered to date: Python for backend development, Linux systems, GIT, Object Oriented Programming, Functional Programming, Algorithms and Data Structures, SQL, Docker.  
+-	Projects built: Bookbot, Asteroids, Static Site Generator 
+ 
+**Frontend Development** 
+(Self-taught in free time) `(2021 - 2023)`
 
-*Recruitment (Contract)*
-
-Achievements
-
-- Matching and Ranking Algorithm: Developed a new matching and ranking algorithm for worker-job allocation, overcoming challenges with evolving requirements and a complex legacy codebase. This involved mastering both Python and Ruby to deliver a solution that incorporated a new points system to improve worker scoring and ranking. The algorithm aimed to increase the average score of workers assigned to jobs, potentially leading to increased worker engagement and higher job fill rates
-- Data Processing: Utilized SQLAlchemy and Pandas to process large datasets of worker, job, and shift information. This involved complex SQL queries, data manipulation with Pandas, and the implementation of a backfill process to correct historical data inaccuracies.
-
-<p>
-  Key Technologies:
-  <em>Python</em>,
-  <em>Flask</em>,
-  <em>SQLAlchemy</em>,
-  <em>Pandas</em>,
-  <em>PyUnit</em>,
-  <em>Ruby</em>,
-  <em>Rails</em>
-</p>
-
-## PROJECTS
-
-**Maze Solver**  
-Using depth first search TKUIToolkit and depth first search to build and solve a maze.
+-	Responsive Web Design using HTML5 and CSS3 to create product landing pages and animations FreeCodeCamp  
+-	Javascript Algorithms and Data Structures course beginning my understanding of the backend 
+  
+ 
+## Work History
+ 
+**Director and Self-Funded Student** Huffle Engineering Ltd `August 2024 – Present (7mos)`
+-	In my time as a Director of this company, started with the goal to develop and monetise automated drop shipping software alongside my learning, I have also run the administration of the business as well as building a working business understanding of Automated Drop shipping as a potential avenue for us to work in.  
+-	My time was spent under the mentorship of an experienced backend senior software engineer working on ongoing projects using Python. Alongside formal online courses this guidance allowed me to understand and implement common agile practices and deliver clean code and solutions to problems.  
+ 
+ 
+**Building Control Technical Assistant** Tunbridge Wells Council `Apr 2022- Aug 2024 (2yrs 5mos)` 
+ 
+**Commercial Archaeologist**  Wessex Archaeology `Aug 2018 – Apr 2022 (3yrs 9mos)`
+ 
+**Specialist Retail Sales** Cotswold Outdoor `Nov 2017 – Aug 2018 (9mo)` 
+ 
+**Fishery Worker** Colchester Oyster Fishery `Sept 2016 – Aug 2017 (1yr)` 
 
 
-## EDUCATION
+##  Education
 
-`2010 - 2011`
-**King's College London**  
-MSc in Philosophy of Psychiatry (2.1)
+`2013 - 2016`
+**Cardiff University**  
+BA in Archaeology (2.2)
