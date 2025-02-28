@@ -63,7 +63,7 @@ Algorithms and Data Structures
  
 **Technical Assistant** Tunbridge Wells Council `Apr 2022- Aug 2024 (2yrs 5mos)` 
  
-**Commercial Archaeologist**  Wessex Archaeology `Aug 2018 – Apr 2022 (3yrs 9mos)`
+**Archaeologist**  Wessex Archaeology `Aug 2018 – Apr 2022 (3yrs 9mos)`
  
 **Specialist Retail Sales** Cotswold Outdoor `Nov 2017 – Aug 2018 (9mo)` 
  
